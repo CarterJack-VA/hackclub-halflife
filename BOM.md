@@ -20,7 +20,7 @@
 | [DHT11](https://www.pishop.us/product/arduino-compatible-digital-temperature-humidity-sensor-module-dht11/?srsltid=AU7gw4UvabgWYK01_3_Hsb0h4QP9SPyrTpvCUiRfklRVTq7xP1jCOo6f) | 3.3V to 5.5V, temperature and humidity module, DHT11 | 1 | $4.45 | $4.45 | [PiShop](https://www.pishop.us/product/arduino-compatible-digital-temperature-humidity-sensor-module-dht11/?srsltid=AU7gw4UvabgWYK01_3_Hsb0h4QP9SPyrTpvCUiRfklRVTq7xP1jCOo6f) |
 | [PMS5003](https://www.amazon.com/EC-Buying-Particle-Concentration-Precision/dp/B0B38J2836/ref=mp_s_a_1_2?dib=eyJ2IjoiMSJ9.j59ENs6IpMRyZACuE6BRolEsfhjyg8hQSYP5ULQMUOus2FwrJf8-Mwi_iQM34nuK3KXb_a5AMso8xs89IizgO3EZKnF8cQ1Op0CX_E-0OfTbDhYW3TW-EC5DCUEIQmwzObA_7uNAz0dO0jLdaS2MnUcPHzMROjIIln0OO5otRzzPcWx719nW3tGddpDcf7u5K-0tG6D_n7cUQ1nP_OhvXw.gpTRCubSkoP-cpmFffzSJp6N6Z96y4-6wxDX1eIit18&dib_tag=se&keywords=pms5003&qid=1791749769&sr=8-2) | (Originally from my parts bin so free) Digital universal particle concentration sensor | 1 | $0.00 | $0.00 | [Amazon](https://www.amazon.com/EC-Buying-Particle-Concentration-Precision/dp/B0B38J2836/ref=mp_s_a_1_2?dib=eyJ2IjoiMSJ9.j59ENs6IpMRyZACuE6BRolEsfhjyg8hQSYP5ULQMUOus2FwrJf8-Mwi_iQM34nuK3KXb_a5AMso8xs89IizgO3EZKnF8cQ1Op0CX_E-0OfTbDhYW3TW-EC5DCUEIQmwzObA_7uNAz0dO0jLdaS2MnUcPHzMROjIIln0OO5otRzzPcWx719nW3tGddpDcf7u5K-0tG6D_n7cUQ1nP_OhvXw.gpTRCubSkoP-cpmFffzSJp6N6Z96y4-6wxDX1eIit18&dib_tag=se&keywords=pms5003&qid=1791749769&sr=8-2) |
 | **Parts subtotal** | — | — | — | **$13.70** | — |
-| **Tax & shipping** | — | — | — | **$2.00** | — |
-| **Total** | — | — | — | **$15.70** | — |
+| **Tax & shipping** | — | — | — | **$3.00** | — |
+| **Total** | — | — | — | **$16.70** | — |
 
-$14.30 left of the tier's funding.
+$13.30 left of the tier's funding.
