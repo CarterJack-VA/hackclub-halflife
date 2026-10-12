@@ -20,7 +20,7 @@
 | [DHT11](https://www.amazon.com/gp/product/B0D54C2BCM/ref=ox_sc_act_title_4?smid=A1VB2JIQX4M8O3&psc=1) | 3.3V to 5.5V, temperature and humidity module, DHT11 | 1 | $4.68 | $4.68 | [Amazon](https://www.amazon.com/gp/product/B0D54C2BCM/ref=ox_sc_act_title_4?smid=A1VB2JIQX4M8O3&psc=1) |
 | [PMS5003](https://www.amazon.com/EC-Buying-Particle-Concentration-Precision/dp/B0B38J2836/ref=mp_s_a_1_2?dib=eyJ2IjoiMSJ9.j59ENs6IpMRyZACuE6BRolEsfhjyg8hQSYP5ULQMUOus2FwrJf8-Mwi_iQM34nuK3KXb_a5AMso8xs89IizgO3EZKnF8cQ1Op0CX_E-0OfTbDhYW3TW-EC5DCUEIQmwzObA_7uNAz0dO0jLdaS2MnUcPHzMROjIIln0OO5otRzzPcWx719nW3tGddpDcf7u5K-0tG6D_n7cUQ1nP_OhvXw.gpTRCubSkoP-cpmFffzSJp6N6Z96y4-6wxDX1eIit18&dib_tag=se&keywords=pms5003&qid=1791749769&sr=8-2) | (Originally from my parts bin so free) Digital universal particle concentration sensor | 1 | $0.00 | $0.00 | [Amazon](https://www.amazon.com/EC-Buying-Particle-Concentration-Precision/dp/B0B38J2836/ref=mp_s_a_1_2?dib=eyJ2IjoiMSJ9.j59ENs6IpMRyZACuE6BRolEsfhjyg8hQSYP5ULQMUOus2FwrJf8-Mwi_iQM34nuK3KXb_a5AMso8xs89IizgO3EZKnF8cQ1Op0CX_E-0OfTbDhYW3TW-EC5DCUEIQmwzObA_7uNAz0dO0jLdaS2MnUcPHzMROjIIln0OO5otRzzPcWx719nW3tGddpDcf7u5K-0tG6D_n7cUQ1nP_OhvXw.gpTRCubSkoP-cpmFffzSJp6N6Z96y4-6wxDX1eIit18&dib_tag=se&keywords=pms5003&qid=1791749769&sr=8-2) |
 | **Parts subtotal** | — | — | — | **$27.27** | — |
-| **Tax & shipping** | — | — | — | **$4.00** | — |
-| **Total** | — | — | — | **$31.27** | — |
+| **Tax & shipping** | — | — | — | **$3.99** | — |
+| **Total** | — | — | — | **$31.26** | — |
 
-**$1.27 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$1.26 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
